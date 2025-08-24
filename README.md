@@ -16,6 +16,8 @@
 
 - ブログ: [制御工学ブログ](https://blog.control-theory.com)
 
+- Qiita: [おかじま（制御工学チャンネル）](https://qiita.com/Hiroshi-Okajima)
+
 ![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
 
 岡島 寛（熊本大学工学部情報電気工学科准教授）[岡島研，日本語Webページ](https://www.control-theory.com)
