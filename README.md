@@ -24,9 +24,14 @@
 
 ## 1: モデル誤差抑制補償器 
 
-[モデル誤差抑制補償器のまとめページ](https://www.control-theory.com/jp/%E7%A0%94%E7%A9%B6%E3%83%A2%E3%83%87%E3%83%AB%E8%AA%A4%E5%B7%AE%E6%8A%91%E5%88%B6%E8%A3%9C%E5%84%9F%E5%99%A8)
-[モデル誤差抑制補償器のブログ記事](https://blog.control-theory.com/entry/2024/01/21/model-error-compensator-mec)
-[モデル誤差抑制補償器のqiita記事](https://qiita.com/Hiroshi-Okajima/items/10256a84ed97602058b4)
+モデル誤差抑制補償器は，既存の制御システムにロバスト性を付与するための特化型補償器です．モデルと制御対象のギャップに起因した出力誤差を抑制する効果を持ちます．簡単な補償構造で設計指針も難しくないことから，様々な対象（線形・非線形・MIMO・むだ時間系・非最小位相系・マルチレート系など）に対して適用することが可能です．詳細は各種記事をご覧ください．
+
+- [モデル誤差抑制補償器のまとめページ](https://www.control-theory.com/jp/%E7%A0%94%E7%A9%B6%E3%83%A2%E3%83%87%E3%83%AB%E8%AA%A4%E5%B7%AE%E6%8A%91%E5%88%B6%E8%A3%9C%E5%84%9F%E5%99%A8)
+- [モデル誤差抑制補償器のブログ記事](https://blog.control-theory.com/entry/2024/01/21/model-error-compensator-mec)
+- [モデル誤差抑制補償器のqiita記事](https://qiita.com/Hiroshi-Okajima/items/10256a84ed97602058b4)
+
+  ![model error compensator](https://github.com/user-attachments/assets/ac5b9122-99d9-4bae-8e8d-83caba653da8)
+
 
 ### (MATLAB) モデル誤差抑制補償器（MEC）
  - https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
