@@ -22,9 +22,7 @@
 
 岡島 寛（熊本大学工学部情報電気工学科准教授）[岡島研，日本語Webページ](https://www.control-theory.com)
 
-## 研究テーマ（制御工学）
-
-[私の研究論文](https://www.control-theory.com/en/research-achievements)（国際会議論文・プロシーディング）
+[研究論文](https://www.control-theory.com/en/research-achievements)（国際会議論文・プロシーディング）
 
 ## 1: モデル誤差抑制補償器 ([MECの研究ページ](https://www.control-theory.com/en/rt-model-error-compensator), 私のメイン研究テーマ)
 
