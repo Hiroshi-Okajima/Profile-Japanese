@@ -20,9 +20,13 @@
 
 岡島 寛（熊本大学工学部情報電気工学科准教授）[岡島研，日本語Webページ](https://www.control-theory.com)
 
-国際会議論文・プロシーディング：[研究論文](https://www.control-theory.com/en/research-achievements)
+学術論文・解説：[研究業績（岡島寛）](https://www.control-theory.com/jp/%E6%A5%AD%E7%B8%BE)
 
-## 1: モデル誤差抑制補償器 ([MECの研究ページ](https://www.control-theory.com/en/rt-model-error-compensator), 私のメイン研究テーマ)
+## 1: モデル誤差抑制補償器 
+
+[モデル誤差抑制補償器のまとめページ](https://www.control-theory.com/jp/%E7%A0%94%E7%A9%B6%E3%83%A2%E3%83%87%E3%83%AB%E8%AA%A4%E5%B7%AE%E6%8A%91%E5%88%B6%E8%A3%9C%E5%84%9F%E5%99%A8)
+[モデル誤差抑制補償器のブログ記事](https://blog.control-theory.com/entry/2024/01/21/model-error-compensator-mec)
+[モデル誤差抑制補償器のqiita記事](https://qiita.com/Hiroshi-Okajima/items/10256a84ed97602058b4)
 
 ### (MATLAB) モデル誤差抑制補償器（MEC）
  - https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
