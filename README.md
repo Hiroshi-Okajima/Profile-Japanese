@@ -8,9 +8,9 @@
 
 [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en), [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482)
 
-- YouTube: [制御工学チャンネル（登録者数10,000人、日本語）](https://www.youtube.com/c/ControlEngineeringChannel/videos)
+- YouTube: [制御工学チャンネル（登録者数10,000人，日本語）](https://www.youtube.com/c/ControlEngineeringChannel/videos)
 
-- YouTube2: [制御工学チャンネルサブ（登録者数300人、英語）](https://www.youtube.com/@ControlEngineeringCh/videos)
+- YouTube2: [制御工学チャンネルサブ（登録者数300人，英語）](https://www.youtube.com/@ControlEngineeringCh/videos)
 
 - X(Twitter): [@control_eng_ch](https://x.com/control_eng_ch)
 
@@ -18,11 +18,9 @@
 
 ![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
 
-岡島 寛（博士（工学）、熊本大学准教授）[岡島研，Webページ（英語）](https://www.control-theory.com/en)
-
 岡島 寛（熊本大学工学部情報電気工学科准教授）[岡島研，日本語Webページ](https://www.control-theory.com)
 
-[研究論文](https://www.control-theory.com/en/research-achievements)（国際会議論文・プロシーディング）
+国際会議論文・プロシーディング：[研究論文](https://www.control-theory.com/en/research-achievements)
 
 ## 1: モデル誤差抑制補償器 ([MECの研究ページ](https://www.control-theory.com/en/rt-model-error-compensator), 私のメイン研究テーマ)
 
@@ -97,12 +95,10 @@
    
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_animation)
 
-## 制御工学教育
-
- ### 伝達関数に基づく制御 
+### 3: 伝達関数に基づく制御 
   - https://github.com/Hiroshi-Okajima/control-education01-transferfunction
 
   - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/control-education01-transferfunction)
    
- ### 状態方程式に基づく制御 
+### 4: 状態方程式に基づく制御 
  - https://github.com/Hiroshi-Okajima/control-education02-stateequation
