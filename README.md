@@ -12,15 +12,13 @@
 
 - X(Twitter): [@control_eng_ch](https://x.com/control_eng_ch)
 
+- ブログ: [制御工学ブログ](https://blog.control-theory.com)
+
 ![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
 
 岡島 寛（博士（工学）、熊本大学准教授）[岡島研，Webページ（英語）](https://www.control-theory.com/en)
 
 岡島 寛（熊本大学工学部情報電気工学科准教授）[岡島研，日本語Webページ](https://www.control-theory.com)
-
-## 制御工学ブログ
-
-[制御工学ブログへのリンク](https://blog.control-theory.com)
 
 ## 研究テーマ（制御工学）
 
