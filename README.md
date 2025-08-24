@@ -81,7 +81,14 @@
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_state_estimation)
 
-## 4: 車両制御（研究）
+## 4: マルチレートシステム制御
+- [マルチレート制御システムのまとめページ](https://www.control-theory.com/jp/%E7%A0%94%E7%A9%B6%E3%83%9E%E3%83%AB%E3%83%81%E3%83%AC%E3%83%BC%E3%83%88%E5%88%B6%E5%BE%A1)
+
+### マルチレートシステムの状態推定
+- https://codeocean.com/capsule/3611894/tree
+### マルチレートシステム同定
+- Hiroshi Okajima, Risa Furukawa and Nobutomo Matsunaga, System Identification Under Multi-rate Sensing Environment, Journal of Robotics and Mechatronics, Vol. 37 (2025) (Open Access) Accepted [2503.12750] System Identification Under Multi-rate Sensing Environment 
+## 5: 車両制御（研究）
 
   - [私のWebページをご覧ください](https://www.control-theory.com/jp/%E7%A0%94%E7%A9%B6%E3%83%93%E3%83%BC%E3%82%AF%E3%83%AB%E5%88%B6%E5%BE%A1)
 
