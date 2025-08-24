@@ -30,8 +30,7 @@
 - [モデル誤差抑制補償器のブログ記事](https://blog.control-theory.com/entry/2024/01/21/model-error-compensator-mec)
 - [モデル誤差抑制補償器のqiita記事](https://qiita.com/Hiroshi-Okajima/items/10256a84ed97602058b4)
 
-  ![model error compensator](https://github.com/user-attachments/assets/ac5b9122-99d9-4bae-8e8d-83caba653da8)
-
+<img width="713" height="614" alt="image" src="https://github.com/user-attachments/assets/229323a7-5bc6-433f-9af8-4a2046132639" />
 
 ### (MATLAB) モデル誤差抑制補償器（MEC）
  - https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
