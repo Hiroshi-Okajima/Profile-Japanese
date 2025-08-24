@@ -85,6 +85,8 @@
 - [マルチレート制御システムのまとめページ](https://www.control-theory.com/jp/%E7%A0%94%E7%A9%B6%E3%83%9E%E3%83%AB%E3%83%81%E3%83%AC%E3%83%BC%E3%83%88%E5%88%B6%E5%BE%A1)
 
 ### マルチレートシステムの状態推定
+- State Observer Under Multi-Rate Sensing Environment and Its Design Using l2-Induced Norm, IEEE Access https://ieeexplore.ieee.org/document/10054014
+
 - https://codeocean.com/capsule/3611894/tree
 ### マルチレートシステム同定
 - Hiroshi Okajima, Risa Furukawa and Nobutomo Matsunaga, System Identification Under Multi-rate Sensing Environment, Journal of Robotics and Mechatronics, Vol. 37 (2025) (Open Access) Accepted [[2503.12750] System Identification Under Multi-rate Sensing Environment](https://arxiv.org/abs/2503.12750)
