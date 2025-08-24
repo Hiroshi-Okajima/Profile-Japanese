@@ -32,66 +32,64 @@
 
 <img width="713" height="614" alt="image" src="https://github.com/user-attachments/assets/229323a7-5bc6-433f-9af8-4a2046132639" />
 
-### (MATLAB) モデル誤差抑制補償器（MEC）
- - https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
+### モデル誤差抑制補償器（MEC）
+ - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/Robust-control-MATLAB_MEC01
 
  - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Robust-control-MATLAB_MEC01)
 
-### (MATLAB) センサノイズを考慮したMEC
+### センサノイズを考慮したMEC
 
-- https://github.com/Hiroshi-Okajima/MATLAB_MEC02_sensor_noise
+- (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_MEC02_sensor_noise
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_MEC02_sensor_noise)
   
-### (MATLAB) PFC付きMEC
-- https://github.com/Hiroshi-Okajima/MATLAB_MEC03_withPFC
+### PFC付きMEC
+- (MATLAB codes in GitHub)  https://github.com/Hiroshi-Okajima/MATLAB_MEC03_withPFC
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_MEC03_withPFC)
   
-### (MATLAB) 非線形系用MEC
+### 非線形系用MEC
 
-- https://github.com/Hiroshi-Okajima/non_linear_control_MATLAB_MEC04
+- (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/non_linear_control_MATLAB_MEC04
   
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/non_linear_control_MATLAB_MEC04)
   
-### (MATLAB) 信号制限フィルタ
-- https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter
+### 信号制限フィルタ
+- (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_MEC05_signal_limitation_filter)
  
-### (MATLAB) 車両制御
+### 車両制御
 
-- https://github.com/Hiroshi-Okajima/Vehicle_control_MEC05
+- (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/Vehicle_control_MEC05
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Vehicle_control_MEC05)
 
 ### 動画リンク
 
-[YouTube: モデル誤差抑制補償器](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e) 14分、英語
- 
-[![MEC](https://github.com/user-attachments/assets/1b70efcd-2898-47f0-8ccb-493d5baf186d)](https://youtu.be/UbEQD22V20c?si=fTFpegjDsDgVg74e)
+[YouTube: モデル誤差抑制補償器](https://youtu.be/GceuMz3FkO0?si=cebMVoi-Kv3wC2VO) 日本語，34分説明動画
 
 ## 2: 量子化制御（動的量子化器）([量子化器の研究ページ](https://sites.google.com/view/deltasiguma))
 
-  -  https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01
+  -  (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01
   
   - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01)
 
 ## 3: 状態推定 ([論文PDF](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702))
 
-  - https://github.com/Hiroshi-Okajima/MATLAB_state_estimation
+  - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_state_estimation
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_state_estimation)
 
 ## 4: 車両制御（研究）
 
-  - 私のWebページをご覧ください
+  - [私のWebページをご覧ください](https://www.control-theory.com/jp/%E7%A0%94%E7%A9%B6%E3%83%93%E3%83%BC%E3%82%AF%E3%83%AB%E5%88%B6%E5%BE%A1)
 
 ## 教育テーマ（制御工学）
 
 ### 1: 線形行列不等式 ([教育ページ](https://www.control-theory.com/en/et-linear-matrix-inequality))
 
-  - (MATLAB) https://github.com/Hiroshi-Okajima/Linear-matrix-inequality-and-control-MATLAB_fandamental_control
+  - (MATLAB codes in GitHub)  https://github.com/Hiroshi-Okajima/Linear-matrix-inequality-and-control-MATLAB_fandamental_control
 
 - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/Linear-matrix-inequality-and-control-MATLAB_fandamental_control)
 
@@ -99,14 +97,12 @@
 
 ### 2: 制御アニメーション（MATLABコード → mp4）
 
- - (MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_animation
-   
-- [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_animation)
+ - (MATLAB codes in GitHub)  https://github.com/Hiroshi-Okajima/MATLAB_animation
 
 ### 3: 伝達関数に基づく制御 
-  - https://github.com/Hiroshi-Okajima/control-education01-transferfunction
+  - (動画リンク in GitHub) https://github.com/Hiroshi-Okajima/control-education01-transferfunction
 
   - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/control-education01-transferfunction)
    
 ### 4: 状態方程式に基づく制御 
- - https://github.com/Hiroshi-Okajima/control-education02-stateequation
+ - (動画リンク in GitHub) https://github.com/Hiroshi-Okajima/control-education02-stateequation
