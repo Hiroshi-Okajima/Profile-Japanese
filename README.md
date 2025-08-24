@@ -1,8 +1,10 @@
 [English](https://github.com/Hiroshi-Okajima), [日本語JP](https://github.com/Hiroshi-Okajima/Profile-Japanese)
 
+# 岡島研究室
+
 ## プロフィール
 
-私は熊本大学の准教授です。研究分野は，制御工学，制御理論です。
+研究分野：制御工学，制御理論，信号処理
 
 [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en), [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482)
 
