@@ -114,6 +114,16 @@
 
 ### 3: 伝達関数に基づく制御 
   - (動画リンク in GitHub) https://github.com/Hiroshi-Okajima/control-education01-transferfunction
+
+
+- (MATLAB Livescript codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-/tree/main
+
+  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-)
    
 ### 4: 状態方程式に基づく制御 
  - (動画リンク in GitHub) https://github.com/Hiroshi-Okajima/control-education02-stateequation
+
+
+- (MATLAB Livescript codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-/tree/main
+
+  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-)
