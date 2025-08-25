@@ -131,4 +131,4 @@
 ### 5: その他
  - 制御工学チャンネル（動画500本以上の動画ポータルサイト） https://www.portal.control-theory.com
  - 電気電子チャンネル（動画200本の動画ポータルサイト） https://www.denki.control-theory.com
- - 制御スクラッチ：[OKJ1980](https://scratch.mit.edu/users/OKJ1980/)
+ - 制御Scratch（低学年向けプログラミング）：[OKJ1980](https://scratch.mit.edu/users/OKJ1980/)
