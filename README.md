@@ -127,3 +127,8 @@
 - (MATLAB Livescript codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-/tree/main
 
   [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-)
+
+### 5: その他
+ - 制御工学チャンネル（動画500本以上の動画ポータルサイト） https://www.portal.control-theory.com
+ - 電気電子チャンネル（動画200本の動画ポータルサイト） https://www.denki.control-theory.com
+ - 制御スクラッチ：[OKJ1980](https://scratch.mit.edu/users/OKJ1980/)
