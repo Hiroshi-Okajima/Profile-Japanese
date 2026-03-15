@@ -24,6 +24,21 @@
 
 学術論文・解説：[研究業績（岡島寛）](https://www.control-theory.com/jp/%E6%A5%AD%E7%B8%BE)
 
+---
+
+## Blog Hub Articles（総合ガイド記事）
+
+各研究分野の全体像をまとめたハブ記事です（英語）．チュートリアル，論文解説，MATLABコードへのリンクを集約しています．
+
+| トピック | Blog Hub 記事 | GitHub リポジトリ |
+|---------|--------------|------------------|
+| **状態フィードバック制御** | [State Feedback Control and State-Space Design](https://blog.control-theory.com/entry/state-feedback-control-eng) | [control_state_feedback](https://github.com/Hiroshi-Okajima/control_state_feedback) |
+| **システム同定** | [System Identification: From Data to Dynamical Models](https://blog.control-theory.com/entry/system-identification) | [MATLAB_system_identification](https://github.com/Hiroshi-Okajima/MATLAB_system_identification) |
+| **状態推定** | [State Observer and State Estimation](https://blog.control-theory.com/entry/state-observer-estimation) | [MATLAB_state_observer](https://github.com/Hiroshi-Okajima/MATLAB_state_observer) |
+| **モデル誤差抑制補償器** | [Model Error Compensator (MEC)](https://blog.control-theory.com/entry/model-error-compensator-eng) | 下記 MEC リポジトリ群を参照 |
+
+---
+
 ## 1: モデル誤差抑制補償器 
 
 モデル誤差抑制補償器は，既存の制御システムにロバスト性を付与するための特化型補償器です．モデルと制御対象のギャップに起因した出力誤差を抑制する効果を持ちます．簡単な補償構造で設計指針も難しくないことから，様々な対象（線形・非線形・MIMO・むだ時間系・非最小位相系・マルチレート系など）に対して適用することが可能です．詳細は各種記事をご覧ください．
@@ -79,22 +94,36 @@
   
   - [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_Dynamic_Quantizer01)
 
-## 3: 状態推定 ([論文PDF](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702))
+## 3: 状態推定
 
-  - (MATLAB codes in GitHub) https://github.com/Hiroshi-Okajima/MATLAB_state_estimation
+ノイズや欠測を含む観測信号からの状態推定．Luenberger オブザーバ，カルマンフィルタ，H∞フィルタ，マルチレートオブザーバ，外れ値ロバスト（MCV）オブザーバを研究対象としています．
 
-- [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_state_estimation)
+- 研究ページ: [状態推定](https://www.control-theory.com/jp/%E7%A0%94%E7%A9%B6%E7%8A%B6%E6%85%8B%E6%8E%A8%E5%AE%9A) | [MCVオブザーバ](https://www.control-theory.com/en/mcv-observer)
+- **(MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_state_observer** — Luenberger, Kalman, H∞, multi-rate, MCV observer codes
+- MATLAB File Exchange: [Multi-Rate Observer](https://jp.mathworks.com/matlabcentral/fileexchange/182941) | [MCV Observer](https://jp.mathworks.com/matlabcentral/fileexchange/182942)
+- 論文PDF（MCVオブザーバ）: [JCMSI 2021 (Open Access)](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702)
 
 ## 4: マルチレートシステム制御
 - [マルチレート制御システムのまとめページ](https://www.control-theory.com/jp/%E7%A0%94%E7%A9%B6%E3%83%9E%E3%83%AB%E3%83%81%E3%83%AC%E3%83%BC%E3%83%88%E5%88%B6%E5%BE%A1)
 
 ### マルチレートシステムの状態推定
 - State Observer Under Multi-Rate Sensing Environment and Its Design Using l2-Induced Norm, IEEE Access https://ieeexplore.ieee.org/document/10054014
-
 - https://codeocean.com/capsule/3611894/tree
+
+### マルチレートカルマンフィルタ
+- (MATLAB) https://github.com/Hiroshi-Okajima/multirate-kalman-filter
+
 ### マルチレートシステム同定
 - Hiroshi Okajima, Risa Furukawa and Nobutomo Matsunaga, System Identification Under Multi-rate Sensing Environment, Journal of Robotics and Mechatronics, Vol. 37 (2025) (Open Access) Accepted [[2503.12750] System Identification Under Multi-rate Sensing Environment](https://arxiv.org/abs/2503.12750)
-## 5: 車両制御（研究）
+
+## 5: システム同定
+
+入出力データからの動的モデル取得．部分空間同定（N4SID），周期時変系（LPTV）の巡回再定式化，マルチレートシステム同定を研究対象としています．古典パラメトリック法（ARX, ARMAX, PEM）の教育資料も提供しています．
+
+- 研究ページ: [システム同定](https://www.control-theory.com/en/system-identification)
+- **(MATLAB) https://github.com/Hiroshi-Okajima/MATLAB_system_identification** — 基礎同定, 部分空間法, LPTV巡回同定, マルチレート, パラメトリックPEM codes
+
+## 6: 車両制御（研究）
 
   - [私のWebページをご覧ください](https://www.control-theory.com/jp/%E7%A0%94%E7%A9%B6%E3%83%93%E3%83%BC%E3%82%AF%E3%83%AB%E5%88%B6%E5%BE%A1)
 
@@ -121,6 +150,8 @@
   [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-)
    
 ### 4: 状態方程式に基づく制御 
+ - Blog hub: [State Feedback Control and State-Space Design](https://blog.control-theory.com/entry/state-feedback-control-eng)（英語）
+ - **(MATLAB / Python) https://github.com/Hiroshi-Okajima/control_state_feedback** — 状態フィードバック, 極配置, LQR, オブザーバ併合系
  - (動画リンク in GitHub) https://github.com/Hiroshi-Okajima/control-education02-stateequation
 
 
