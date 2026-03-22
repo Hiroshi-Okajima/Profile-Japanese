@@ -18,7 +18,7 @@
 
 - Qiita: [おかじま（制御工学チャンネル）](https://qiita.com/Hiroshi-Okajima)
 
-![無題](https://user-images.githubusercontent.com/112537733/188295382-7b3892e7-38ec-4fc6-93e2-f9d575c0926c.jpg)
+![okajima_400](https://github.com/user-attachments/assets/e3851165-45b8-4683-8a20-61d5c7aeb560)
 
 岡島 寛（熊本大学工学部情報電気工学科准教授）[岡島研，日本語Webページ](https://www.control-theory.com)
 
