@@ -142,7 +142,26 @@
 
  - (MATLAB codes in GitHub)  https://github.com/Hiroshi-Okajima/MATLAB_animation
 
-### 3: 伝達関数に基づく制御 
+### 3: 制御インタラクティブページ（html）
+
+ - (Interactive tool in GitHub)  https://github.com/Hiroshi-Okajima/control-interactive-tools
+
+| # | 教材名 | 内容 | ファイル |
+|---|--------|------|----------|
+| 01 | 1次系の応答 | ステップ応答・インパルス応答 (K, T) | `control_1st_order.html` |
+| 02 | 2次系の応答 | ステップ応答・インパルス応答 (K, ωₙ, ζ) | `control_2nd_order.html` |
+| 03 | ボード線図と入出力波形 | 2次系の周波数応答と正弦波入出力 | `control_bode.html` |
+| 04 | PID制御 | PIDフィードバック制御のステップ応答・ボード線図 | `control_pid.html` |
+| 05 | 3次系の極配置 | 状態フィードバックによる極配置とステップ応答 | `control_poles.html` |
+| 06 | 状態推定 | 観測ノイズと速応性の状態推定におけるTrade off | `control_observer.html` |
+| 07 | 振れ止め制御 | クレーンの振れ止めアニメーション（コンテスト） | `control_crane.html` |
+| 08 | 適応クルーズ制御 | ビークルのクルーズコントロール（状態FB） | `control_acc.html` |
+| 09 | 倒立振子 | 倒立振子の目標値追従制御（状態FB） | `control_invpend.html` |
+| 10 | 部屋の温度制御 | 3つの条件の比較（目標温度18度） | `control_temperature.html` |
+| 11 | 追跡パトカー | 小学生向けゲーム | `control_acc_game.html` |
+| 12 | 荷物運び | 小学生向けゲーム | `control_crane_game.html` |
+
+### 4: 伝達関数に基づく制御 
   - (動画リンク in GitHub) https://github.com/Hiroshi-Okajima/control-education01-transferfunction
 
 
@@ -150,7 +169,7 @@
 
   [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-)
    
-### 4: 状態方程式に基づく制御 
+### 5: 状態方程式に基づく制御 
  - Blog hub: [State Feedback Control and State-Space Design](https://blog.control-theory.com/entry/state-feedback-control-eng)（英語）
  - **(MATLAB / Python) https://github.com/Hiroshi-Okajima/control_state_feedback** — 状態フィードバック, 極配置, LQR, オブザーバ併合系
  - (動画リンク in GitHub) https://github.com/Hiroshi-Okajima/control-education02-stateequation
@@ -160,7 +179,7 @@
 
   [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_fandamental_control-LiveScriptFiles-)
 
-### 5: その他
+### 6: その他
  - 制御工学チャンネル（動画500本以上の動画ポータルサイト） https://www.portal.control-theory.com
  - 電気電子チャンネル（動画200本の動画ポータルサイト） https://www.denki.control-theory.com
  - 制御Scratch（低学年向けプログラミング）：[OKJ1980](https://scratch.mit.edu/users/OKJ1980/)
