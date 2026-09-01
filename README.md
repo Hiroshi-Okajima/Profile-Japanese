@@ -8,9 +8,9 @@
 
 [Researchgate(H.Okajima)](https://www.researchgate.net/profile/Hiroshi-Okajima), [Researchmap(H.Okajima)](https://researchmap.jp/read0203288?lang=en), [ORCID(H.Okajima)](https://orcid.org/0000-0001-7621-7482)
 
-- YouTube: [制御工学チャンネル（登録者数10,000人，日本語）](https://www.youtube.com/c/ControlEngineeringChannel/videos)
+- YouTube: [制御工学チャンネル（登録者数11,000人，日本語）](https://www.youtube.com/c/ControlEngineeringChannel/videos)
 
-- YouTube2: [制御工学チャンネルサブ（登録者数300人，英語）](https://www.youtube.com/@ControlEngineeringCh/videos)
+- YouTube2: [制御工学チャンネルサブ（登録者数350人，英語）](https://www.youtube.com/@ControlEngineeringCh/videos)
 
 - X(Twitter): [@control_eng_ch](https://x.com/control_eng_ch)
 
@@ -21,7 +21,7 @@
 ![okajima_200](https://github.com/user-attachments/assets/9cd09edb-523a-48f7-9607-f16493697911)
 
 
-岡島 寛（熊本大学工学部情報電気工学科准教授）[岡島研，日本語Webページ](https://www.control-theory.com)
+岡島 寛（熊本大学大学院先端科学研究部 教授）[岡島研，日本語Webページ](https://www.control-theory.com)
 
 学術論文・解説：[研究業績（岡島寛）](https://www.control-theory.com/jp/%E6%A5%AD%E7%B8%BE)
 
